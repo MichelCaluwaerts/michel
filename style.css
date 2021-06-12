@@ -2,7 +2,7 @@
 
 h1 {
   color: rgba(76, 0, 255, 0.719);
-  font: 32px Roboto, sans-serif;
+  font: 32px "Roboto", sans-serif;
   font-size: 32px;
   font-weight: 900;
 }
@@ -23,7 +23,7 @@ body {
 }
 
 p {
- font: 17px Lora, serif;
+ font: 17px "Lora", serif;
  margin: 17px 0px 40px;  
 }
 
